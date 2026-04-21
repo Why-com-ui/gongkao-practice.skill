@@ -167,8 +167,3 @@ python scripts/export_examples.py
 - 题库统计分析脚本
 - 面向在线服务的接口封装
 
-## License
-
-本仓库当前采用 `GNU Affero General Public License v3.0`。
-
-如需引入第三方真题、机构题库或外部整理资料，请单独确认版权归属与授权范围。第三方内容不应默认视为可随仓库代码一起再分发。
