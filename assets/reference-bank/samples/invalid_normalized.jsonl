@@ -1,0 +1,1 @@
+{"id":"invalid-sample-1","exam_type":"省考","subject":"职测","province":"江苏","module":"判断","subtype":"定义判断","difficulty":"中等","stem":"某定义判断题缺少有效答案。","options":{"A":"选项一","B":"选项二","C":"选项三","D":"选项四"},"answer":"E","analysis":"","source_type":"jsonl","pattern_tags":["省考","职测","判断","定义判断"],"reasoning_path":["提取定义要件","逐项比对选项"],"distractor_style":["缺少关键要件","主体不符"]}
